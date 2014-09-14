@@ -1,0 +1,17 @@
+<NotepadPlus>
+    <Session activeView="1">
+        <mainView activeIndex="4">
+            <File firstVisibleLine="80" xOffset="0" scrollWidth="1" startPos="6270" endPos="6270" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\grace\Documents\GitHub\trinityaac\index.html" backupFilePath="" originalFileLastModifTimestamp="1409711891" />
+            <File firstVisibleLine="85" xOffset="0" scrollWidth="2008" startPos="3986" endPos="3986" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\grace\Documents\GitHub\trinityaac\about.html" backupFilePath="" originalFileLastModifTimestamp="1409712589" />
+            <File firstVisibleLine="71" xOffset="0" scrollWidth="5676" startPos="4014" endPos="4014" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\grace\Documents\GitHub\trinityaac\eventscal.html" backupFilePath="" originalFileLastModifTimestamp="1409712608" />
+            <File firstVisibleLine="91" xOffset="0" scrollWidth="5676" startPos="4038" endPos="4038" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\grace\Documents\GitHub\trinityaac\gallery.html" backupFilePath="" originalFileLastModifTimestamp="1409712637" />
+            <File firstVisibleLine="87" xOffset="0" scrollWidth="2008" startPos="4164" endPos="4164" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\grace\Documents\GitHub\trinityaac\contact.html" backupFilePath="" originalFileLastModifTimestamp="1409752196" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="760" startPos="0" endPos="0" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\grace\Documents\GitHub\trinitygli\index.html" backupFilePath="" originalFileLastModifTimestamp="1409342101" />
+        </mainView>
+        <subView activeIndex="3">
+            <File firstVisibleLine="2754" xOffset="0" scrollWidth="1" startPos="53955" endPos="53963" selMode="0" lang="CSS" encoding="-1" filename="C:\Users\grace\Documents\GitHub\trinityaac\bootstrap.css" backupFilePath="" originalFileLastModifTimestamp="1409629027" />
+            <File firstVisibleLine="83" xOffset="0" scrollWidth="304" startPos="1666" endPos="1666" selMode="0" lang="CSS" encoding="-1" filename="C:\Users\grace\Documents\GitHub\trinityaac\business-casual.css" backupFilePath="" originalFileLastModifTimestamp="1409712532" />
+            <File firstVisibleLine="70" xOffset="0" scrollWidth="3528" startPos="1748" endPos="1750" selMode="0" lang="CSS" encoding="-1" filename="C:\Users\grace\Documents\GitHub\trinityaac\carousel.css" backupFilePath="" originalFileLastModifTimestamp="1409281670" />
+        </subView>
+    </Session>
+</NotepadPlus>
